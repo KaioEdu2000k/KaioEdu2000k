@@ -32,6 +32,8 @@
 ---
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioEdu2000k&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact&langs_count=10&card_height=500_width=200&theme=tokyonight&cache_seconds=60)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaioedu2000k&" alt="kaioedu2000k" /></p>
