@@ -22,12 +22,18 @@
 <a href="https://instagram.com/kaio_wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaio_wav" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">
+  Languages and Tools&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="height:1em; vertical-align:middle; margin-left:5px;" />
+</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
   <img src="https://skillicons.dev/icons?i=mysql,vscode,aws&theme=light" />
   <img src="https://skillicons.dev/icons?i=discord" />
 </p>
+
+
 
 
 
