@@ -5,25 +5,29 @@
 
 <h3 align="center">🏆 My Trophies</h3>
 
-<p align="center" style="line-height:0;">
+<p align="center" style="line-height:0; text-align:center;">
+  
   <!-- Dragão esquerdo -->
   <span style="display:inline-block; vertical-align:middle; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
-         style="height:70px; display:block; border:0;" />
+         style="height:60px; display:inline-block; border:0;" />
   </span>
 
-  <!-- Troféus (sem Reviews) -->
+  <!-- Troféus centralizados (PullRequest removido) -->
   <span style="display:inline-block; vertical-align:middle;">
-    <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&exclude=reviews"
-         alt="KaioEdu2000k" style="height:100px; display:block; border:0;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&theme=dark_lover&title=Commits,Stars,Repositories,Experience,Followers,Issues"
+         alt="KaioEdu2000k" style="height:100px; display:inline-block; border:0;" />
   </span>
 
   <!-- Dragão direito -->
   <span style="display:inline-block; vertical-align:middle; margin-left:10px;">
     <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
-         style="height:70px; display:block; border:0;" />
+         style="height:60px; display:inline-block; border:0;" />
   </span>
 </p>
+
+
+
 
 
 
