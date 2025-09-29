@@ -9,12 +9,12 @@
   🏆 My Trophies
   <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter%20(1).png"
        style="height:80px; display:inline-block;" />
-</h3>
+</h3><br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues,Reviews,PullRequest&theme=dark_lover"
        alt="KaioEdu2000k" style="height:100px; display:inline-block; border:0;" />
-</p><br><br><br>
+</p><br><br>
 
 <h3 align="left">⁉️ About Me ⬇️ </h3><br>
 
