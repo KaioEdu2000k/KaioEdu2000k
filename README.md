@@ -5,12 +5,29 @@
 
 <h3 align="center">🏆 My Trophies</h3>
 
-<p align="center" style="position:relative;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration:none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaioedu2000k" alt="kaioedu2000k" style="height:100px; vertical-align:middle;" />
-  </a>
-  <img src="https://i.gifer.com/XZ5Q.gif" style="height:90px; vertical-align:middle; margin-left:-20px;" />
+<p align="center" style="line-height:0;">
+  <!-- Dragão esquerdo -->
+  <span style="display:inline-block; vertical-align:middle; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
+         style="height:70px; display:block; border:0;" />
+  </span>
+
+  <!-- Troféus (sem Reviews) -->
+  <span style="display:inline-block; vertical-align:middle;">
+    <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&exclude=reviews"
+         alt="KaioEdu2000k" style="height:100px; display:block; border:0;" />
+  </span>
+
+  <!-- Dragão direito -->
+  <span style="display:inline-block; vertical-align:middle; margin-left:10px;">
+    <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
+         style="height:70px; display:block; border:0;" />
+  </span>
 </p>
+
+
+
+
 
 
 
