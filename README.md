@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaioEdu2000k&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60" width="290" />
 </p>
 
 
