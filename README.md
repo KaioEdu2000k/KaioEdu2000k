@@ -14,23 +14,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues,Reviews,PullRequest&theme=dark_lover"
        alt="KaioEdu2000k" style="height:100px; display:inline-block; border:0;" />
-</p>
+</p><br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="left">⁉️ About Me ⬇️ </h3><br>
 
 
 - 🌱 I’m currently learning : **Courses and Programming Languages**
@@ -39,7 +25,7 @@
 
 - 📫 How to reach me : **kaioeduardo.go@gmail.com**
 
-- ⚡ Fun fact : **I kinda take things way too seriously**
+- ⚡ Fun fact : **I kinda take things way too seriously**<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
