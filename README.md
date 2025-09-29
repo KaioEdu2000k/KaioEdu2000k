@@ -4,15 +4,15 @@
 ---
 
 <h3 align="center" style="display:flex; justify-content:center; align-items:center; gap:5px;">
-  <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
-       style="height:40px; display:inline-block;" />
+  <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-apng-to-gif-converter.gif"
+       style="height:80px; display:inline-block;" />
   🏆 My Trophies
-  <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter.png"
-       style="height:40px; display:inline-block;" />
+  <img src="https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/ezgif.com-gif-to-apng-converter%20(1).png"
+       style="height:80px; display:inline-block;" />
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues&theme=dark_lover"
+  <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues,Reviews,PullRequest&theme=dark_lover"
        alt="KaioEdu2000k" style="height:100px; display:inline-block; border:0;" />
 </p>
 
@@ -77,6 +77,6 @@
 </p>
 
 <p align="right">
-<img src=https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif />
+<img src=https://i.gifer.com/6vw5.gif />
 </p>
 
