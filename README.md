@@ -44,9 +44,6 @@
 </p>
 
 
-
-
-
 ---
 <h3 align="center">📊 My Statistics</h3>
 
@@ -56,13 +53,11 @@
 </p>
 
 
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioEdu2000k&" alt="kaioedu2000k" />
 </p>
 
 <p align="right">
-<img src=https://i.gifer.com/6vw5.gif />
+<img src=https://i.gifer.com/6vw5.gif  style="height:200px; display:inline-block;"  />
 </p>
 
