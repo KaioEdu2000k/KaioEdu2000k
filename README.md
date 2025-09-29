@@ -26,10 +26,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
-     <img src="https://skillicons.dev/icons?i=mysql,vscode,aws&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,aws&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+
 
 ---
 <h3 align="center">📊 My Statistics</h3>
