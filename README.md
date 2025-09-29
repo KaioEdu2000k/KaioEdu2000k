@@ -24,16 +24,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,aws&theme=light" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=discord" />
 </p>
+
 
 
 ---
