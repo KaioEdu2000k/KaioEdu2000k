@@ -3,11 +3,20 @@
 
 ---
 
-<h3 align="center"> 🏆 My Trophies</h3>
+<h3 align="center">🏆 My Trophies</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaioedu2000k&label=Profile%20views&color=0e75b6&style=flat" alt="kaioedu2000k" /> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaioedu2000k" alt="kaioedu2000k" style="height:50px;" />
+  </a>
+  <img src="https://i.gifer.com/XZ5Q.gif" style="height:100px; vertical-align:middle; margin-left:10px;" />
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaioedu2000k" alt="kaioedu2000k" /></a> </p>
+
+
+
+
+
 
 - 🌱 I’m currently learning : **Courses and Programming Languages**
 
@@ -52,7 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioEdu2000k&" alt="kaioedu2000k" />
 </p>
 
-<p align="center">
- 
+<p align="right">
+<img src=https://raw.githubusercontent.com/KaioEdu2000k/FODASE/refs/heads/main/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif />
 </p>
 
