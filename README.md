@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioEdu2000k&" alt="kaioedu2000k" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioEdu2000k&theme=radical" alt="kaioedu2000k" />
 </p>
 
 <p align="right">
