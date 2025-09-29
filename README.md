@@ -32,7 +32,7 @@
 ---
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioEdu2000k&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact&langs_count=10&card_height=500_width=200&theme=tokyonight&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioEdu2000k&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60)
 
 
 
