@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center"> 🏆 My Trophes</h3>
+<h3 align="center"> 🏆 My Trophies</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaioedu2000k&label=Profile%20views&color=0e75b6&style=flat" alt="kaioedu2000k" /> </p>
 
