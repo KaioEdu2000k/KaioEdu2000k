@@ -27,10 +27,12 @@
 
 - ⚡ Fun fact : **I kinda take things way too seriously**<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kaio_wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaio_wav" height="30" width="40" /></a>
-</p>
+### Connect with me:
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30">](https://instagram.com/kaio_wav)
+[<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30">](https://www.linkedin.com/in/kaio-oliveira-177b33396/)
+
+
 
 <h3 align="center">
   Languages and Tools&nbsp;
