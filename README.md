@@ -56,8 +56,9 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KaioEdu2000k&theme=radical" alt="kaioedu2000k" />
+  <img src="https://streak-stats.demolab.com?user=KaioEdu2000k&theme=radical" alt="KaioEdu2000k" />
 </p>
+
 
 
 <p align="right">
