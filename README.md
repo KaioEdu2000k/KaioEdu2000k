@@ -56,8 +56,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioEdu2000k&theme=radical" alt="kaioedu2000k" />
+  <img src="https://streak-stats.demolab.com/?user=KaioEdu2000k&theme=radical" alt="kaioedu2000k" />
 </p>
+
 
 <p align="right">
 <img src=https://i.gifer.com/6vw5.gif  style="height:200px; display:inline-block;"  />
