@@ -12,7 +12,7 @@
 </h3><br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaioEdu2000k&theme=dark_lover"
+  <img src="https://trophy.ryglcloud.net/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues,Reviews,PullRequest&theme=dark_lover"
        alt="KaioEdu2000k" />
 </p>
 
