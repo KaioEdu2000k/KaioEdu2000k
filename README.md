@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=KaioEdu2000k&title=Commits,Stars,Repositories,Experience,Followers,Issues,Reviews,PullRequest&theme=dark_lover"
-       alt="KaioEdu2000k" />
-</p>
+       alt="KaioEdu2000k" style="height:100px; display:inline-block; border:0;" />
+</p><br><br>
 
 <h3 align="left">⁉️ About Me ⬇️ </h3><br>
 
