@@ -62,6 +62,6 @@
 
 
 <p align="right">
-<img src=https://i.gifer.com/6vw5.gif  style="height:200px; display:inline-block;"  />
+![Descrição do GIF](caminho/do/arquivo.gif)
 </p>
 
