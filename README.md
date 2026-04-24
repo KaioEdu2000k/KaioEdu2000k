@@ -62,6 +62,6 @@
 
 
 <p align="right">
-<img src="https://raw.githubusercontent.com/KaioEdu2000k/PERFIL/main/output-onlinegiftools.gif">
+<img src="https://raw.githubusercontent.com/KaioEdu2000k/PERFIL/main/output-onlinegiftools.gif" style="height:350px; display:inline-block;">
 </p>
 
